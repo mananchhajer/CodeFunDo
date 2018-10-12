@@ -1,2 +1,2 @@
-# CodeFunDo-
-My first repository for codefumdo++
+# CodeFunDo++
+My first repository for codefundo++
